@@ -2,3 +2,4 @@ dash
 dash_daq
 gunicorn
 plotly
+pandas
